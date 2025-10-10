@@ -1,0 +1,47 @@
+header span
+{
+	color:  #FF5E0E;
+}
+header h2
+{
+	font-weight: bold;
+	color: black;
+}
+header p
+{
+	color: black;
+}
+#numero
+{
+	background-color: #1B1212;
+	color: aliceblue;
+	padding: 1.5rem;
+}
+header nav
+{
+	background-color: #1B1212;
+	color: aliceblue;
+}
+ul
+{
+	list-style-type: none;
+}
+a
+{
+	text-decoration: none;
+	color: aliceblue;
+	background-color: #FF5E0E;
+}
+footer
+{
+	background-color: #023020;
+	color: aliceblue;
+}
+footer ul
+{
+	background-color: #1B1212;
+}
+footer table
+{
+	background-color: #1B1212;
+}
